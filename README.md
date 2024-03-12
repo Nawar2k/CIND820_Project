@@ -1,20 +1,20 @@
 # CIND820_Project
 =
-The project in Github contains these files :
-Third Assignement  : Initial Results and Code
-InitialResultsCode_Nawar.ipynb
+1 -The project in Github contains these files :
+2-Third Assignement  : Initial Results and Code
+3- InitialResultsCode_Nawar.ipynb
 
-Second Assignement
+4Second Assignement
 CIND820_CODE2Nawar.ipynb
 
-Dataset
+5 - Dataset
 diabetes.csv
 
-Pdf : InitialResultsCodePython_ThirdAssignment.pdf
-pdf :  OutputCodeCind820_Nawar.pdf > second assignement
+6- Pdf : InitialResultsCodePython_ThirdAssignment.pdf
+7- pdf :  OutputCodeCind820_Nawar.pdf > second assignement
 
-Diabetes Datasete, Url: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-
+ Diabetes Datasete, Url: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Expanation 
 The proposed methodology's process: 
 Step 1: Import diabetes dataset and necessary python libraries.  
 Step 2: Pre-process. 
