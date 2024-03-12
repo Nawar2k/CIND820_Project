@@ -1,17 +1,17 @@
 # CIND820_Project
 =
-1 -The project in Github contains these files :
-2-Third Assignement  : Initial Results and Code
-3- InitialResultsCode_Nawar.ipynb
+1 - The project in Github contains these files :
+2 - Third Assignement  : Initial Results and Code
+3 - InitialResultsCode_Nawar.ipynb
 
-4Second Assignement
+4 -Second Assignement
 CIND820_CODE2Nawar.ipynb
 
 5 - Dataset
 diabetes.csv
 
-6- Pdf : InitialResultsCodePython_ThirdAssignment.pdf
-7- pdf :  OutputCodeCind820_Nawar.pdf > second assignement
+6 - Pdf : InitialResultsCodePython_ThirdAssignment.pdf
+7 - pdf :  OutputCodeCind820_Nawar.pdf > second assignement
 
  Diabetes Datasete, Url: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 Expanation 
