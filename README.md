@@ -14,7 +14,7 @@ diabetes.csv
 7 - pdf :  OutputCodeCind820_Nawar.pdf > second assignement
 
  Diabetes Datasete, Url: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-Expanation 
+Explanation :
 The proposed methodology's process: 
 Step 1: Import diabetes dataset and necessary python libraries.  
 Step 2: Pre-process. 
