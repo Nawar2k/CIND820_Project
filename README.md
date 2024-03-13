@@ -1,5 +1,5 @@
 # CIND820_Project.
-=
+
 1 - The project in Github contains these files :
 
 2 - Third Assignement  : Initial Results and Code
