@@ -14,6 +14,7 @@ CIND820_CODE2Nawar.ipynb
 diabetes.csv
 
 6 - Pdf : InitialResultsCodePython_ThirdAssignment.pdf
+
 7 - pdf :  OutputCodeCind820_Nawar.pdf > second assignement
 
  Diabetes Datasete, Url: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
